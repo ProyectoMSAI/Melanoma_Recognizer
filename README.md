@@ -9,7 +9,7 @@ The goal of this project is to learn about different frameworks and models of de
 ## Dataset
 
 Cases include a representative collection of all important diagnostic categories in the realm of pigmented lesions: 
-* Actinic keratoses and intraepithelial carcinoma Bowen's disease (akiec)
+* actinic keratoses and intraepithelial carcinoma Bowen's disease (akiec)
 * basal cell carcinoma (bcc)
 * benign keratosis-like lesions (solar lentigines seborrheic keratoses and lichen-planus like keratoses, bkl)
 * dermatofibroma (df)
@@ -18,6 +18,7 @@ Cases include a representative collection of all important diagnostic categories
 * vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc)
 
 This dataset was obtained from a large collection of multi-source dermatoscopic images of pigmented lesions:
+
 [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000) - Kaggle dataset
 
 

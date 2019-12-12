@@ -40,7 +40,11 @@ Using CNN we have been able to predict between 7 classes of skin lesions thanks 
 * ResNet34
 * ResNet50
 
+### Files
 
+* **Model_CNN:** Tensorflow/Keras approach
+* **fastai-model-noTest:** first approach to the fastai model with ImageDataBunch and no test set
+* **fastai-model:** fastai model with DataBunch created from ImageList and test set
 
 ## Next Steps
 
